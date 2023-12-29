@@ -20,5 +20,6 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gundolflee)](https://github.com/anuraghazra/github-readme-stats)
 
   <br><br>
-  📧<b>전자우편</b> : gundolflee@gmail.com
+  
+  <b>📧 전자우편</b> : gundolflee@gmail.com
 </div>
