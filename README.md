@@ -4,9 +4,7 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 공부하고 있어요!
-
-  <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> <b>공부하고 있어요!</b>
 
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +18,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gundolflee)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  <br>
+  <br><br>
   📧<b>contact</b> : gundolflee@gmail.com
 
 </div>
