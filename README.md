@@ -1,5 +1,9 @@
 <div align = "center">
   <h2>안녕 👋</h2>
+
+0.17333 sec
+0.21481 sec
+0.20698 sec
  
   <br>
 
