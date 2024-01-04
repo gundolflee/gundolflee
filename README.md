@@ -1,10 +1,10 @@
 <div align = "center">
   <h2>안녕 👋</h2>
 
-0.17333 sec
-0.21481 sec
-0.20698 sec
- 
+<br>t3.small 0.17333 sec<br>
+    t3a.small 0.21481 sec<br>
+t4g.small 0.20698 sec<br>
+  
   <br>
 
   이건호
